@@ -85,8 +85,8 @@ const Projects = () => {
       },
       {
         name: 'Personal Portfolio',
-        git: '/',
-        demo: '/',
+        git: 'https://github.com/EZR4N/Portfolio',
+        demo: 'https://ezequielweb.dev/images/portfolio.png',
         img: '/images/portfolio.png',
         description: 'Personal portfolio developed with Next.js, TypeScript and Tailwind CSS.',
         tech: porfolioTechList
