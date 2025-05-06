@@ -77,7 +77,7 @@ const Projects = () => {
       tech: summoTechList},
       {
         name: 'Workapp',
-        git: 'https://github.com/AgustinGimenezFIE/Website',
+        git: 'https://github.com/JuanPousada/Workapp',
         demo: '/',
         img: '/images/Workapp.png',
         description: 'Landing page with a CRUD made with Express.js and mySQL',
@@ -86,7 +86,7 @@ const Projects = () => {
       {
         name: 'Personal Portfolio',
         git: 'https://github.com/EZR4N/Portfolio',
-        demo: 'https://ezequielweb.dev/images/portfolio.png',
+        demo: 'https://ezequielweb.dev',
         img: '/images/portfolio.png',
         description: 'Personal portfolio developed with Next.js, TypeScript and Tailwind CSS.',
         tech: porfolioTechList
