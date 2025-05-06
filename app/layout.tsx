@@ -16,11 +16,11 @@ export const metadata = {
   openGraph: {
     title: "Ezequiel's Portfolio",
     description: "Explore my web development projects and skills.",
-    // url: "https://your-portfolio-url.com",
+    url: "https://ezequielweb.dev",
     siteName: "Ezequiel Portfolio",
     images: [
       {
-        url: "/images/portfolio.png",
+        url: "https://ezequielweb.dev/images/portfolio.png",
         width: 1200,
         height: 630,
         alt: "Ezequiel Portfolio Open Graph Image",
