@@ -7,7 +7,7 @@ import { LanguagesContext } from '@/context/language_context'
 
 const aboutMeEnglish = [
   'Hi! I´m',
-  'I’m a web developer with experience building web applications using React, Next.js, Node.js, and SQL. I enjoy giving my best in every project and am currently seeking my first opportunity in tech to continue improving and contribute as a valuable member of a team.',
+  'I’m a web developer and Systems Engineering student with experience building web applications using technologies like React, Next.js, Node.js, and SQL. I’m passionate about creating dynamic, responsive websites and always give my best in every project. I enjoy exploring new technologies and learning throughout the process. I’m currently looking for my first opportunity in the tech industry, aiming to grow professionally and contribute as a valuable team member',
   'Download CV',
   'Web Developer',
   '/cv/CV Orellana E.pdf'
@@ -15,7 +15,7 @@ const aboutMeEnglish = [
 
 const aboutMeSpanish = [
   'Hola! soy',
-  'Soy desarrollador web con experiencia en la creación de aplicaciones web utilizando React, Next.js, Node.js y SQL. Disfruto y doy lo mejor de mí en cada proyecto. Actualmente estoy buscando mi primera oportunidad en tecnología para seguir mejorando y contribuir a proyectos como un valioso miembro del equipo.',
+  'Soy desarrollador web y estudiante de Ingeniería en Sistemas, con experiencia en la creación de aplicaciones web utilizando tecnologías como React, Next.js, Node.js y SQL. Me apasiona construir sitios dinámicos y responsive, y disfruto dar lo mejor de mí en cada proyecto. Siempre estoy explorando nuevas tecnologías y aprendiendo en el camino. Actualmente, estoy en busca de mi primera oportunidad en el mundo IT, con el objetivo de seguir creciendo profesionalmente y aportar valor como parte de un equipo de desarrollo.',
   'Descargar CV',
   'Desarrollador Web',
   '/cv/Curriculum Orellana Ezequiel.pdf'

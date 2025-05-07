@@ -69,7 +69,8 @@ const Projects = () => {
 
 
     const projectsList: Project[] = [
-      {name: 'Summo Store', 
+      {
+      name: 'Summo Store', 
       git: 'https://github.com/EZR4N/Summo-Store',
       demo: 'https://summo-store.vercel.app/',
       img: '/images/Summo-Store.png',

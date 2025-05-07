@@ -20,7 +20,7 @@ export const metadata = {
     siteName: "Ezequiel Portfolio",
     images: [
       {
-        url: "https://ezequielweb.dev/images/portfolio.png",
+        url: "https://ezequielweb.dev/images/ezequielweb.png",
         width: 1200,
         height: 630,
         alt: "Ezequiel Portfolio Open Graph Image",
