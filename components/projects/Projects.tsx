@@ -78,8 +78,8 @@ const Projects = () => {
       tech: summoTechList},
       {
         name: 'Workapp',
-        git: 'https://github.com/JuanPousada/Workapp',
-        demo: '/',
+        git: 'https://github.com/EZR4N/WORKAPP',
+        demo: 'https://github.com/EZR4N/WORKAPP',
         img: '/images/Workapp.png',
         description: 'Landing page with a CRUD made with Express.js and mySQL',
         tech: workappTechList
